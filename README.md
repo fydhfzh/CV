@@ -2,4 +2,4 @@
 CV GW GES
 
 # Preview
-![SS](image.jpg)
+![SS](https://github.com/fydhfzh/CV/blob/main/image.png)
