@@ -2,4 +2,4 @@
 CV GW GES
 
 # Preview
-![alt text](https://github.com/fydhfzh/cv/image.jpg?raw=true)
+![alt text](https://github.com/fydhfzh/CV/image.jpg?raw=true)
